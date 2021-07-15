@@ -1,0 +1,12 @@
+{
+  "private": {
+    "key": "-----BEGIN PRIVATE KEY-----\\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDb2T8lE4VVsLf/\\njmgQ3qoiFB3n/7PlF+mUveG6Pa7Dc5FUv5QkYB+3VhzTJq3fDe8BJ+TIGCCjUzDm\\nD6GaEDC5YJ3EkkG3E9r025UrsS7KfmbtQBFql+bqsDEA/oS6wMCbx+xDUtmHBe5d\\nW0tqMx0vHhM4JN3P4B6Lf2hx4eg9c6Tnuk/jmZaZ6tSSBAzipWyq+2z5oAwNYsD/\\nYHxEHjlAdUIs9ndr10ETMkFivsIrKhwM0nSEG6XQHUG8IfYA1Vlkbx3biKRLHoNg\\nXvam06Pr1y10p8R/A7s7GCY7op9ruZAZWTY/xUBmdjaPBfeLKLThlxTWQrQMKDUY\\n9naNovozAgMBAAECggEAVQqxUV8+uYn1cuacPMJVH3+WnfKcnObmFQJqecd4feSL\\neDPvUy7Xteyak9cndNwH8vOCnSAwJ917UdMEGPtgTaUhAjPtNat5jDQQfOk6B1xj\\n5ixdUFVYHrpvCkpp/2+mUdxA+T3oJUHXFcfF4VvKUzqYBqTEJLA2QJHVThAr7PDC\\nQYwoSF5jfgcYlkyWdWuBjktzea2aGYVLhVlDdqa/twpr7UM+sZi6RKVm/sWMDXbJ\\n9yL2f8nVr9vhbRKffPsMHJfzk8AEaMs/BMcqO3WNFJZbd9p6K3ye2i0glPtjZlWk\\nVF6pmNOuBikSwz4te5G4vCf5lxBzgJgrGt/2sDcMOQKBgQD4jFQV8jShjpv6q9/t\\nolZCDQ22BoKtdJnmeIcl1sn2/gvQdzv7HE/UaQp9admK9INNQdbW4PZHgXijN6iI\\nvR2U2rUBOTDLcWa+flap+7z4Mf3aE1ZgM36FOrsCQTdH8exyP+D/cl58YOiL81jH\\nlkS5241hrytqsMqY3JXkJWSTXQKBgQDicKRNRABKGOeFHD7f7NkJqIgZO/4ofUNQ\\nd6xsMIkjtuS70uux1TR6oweBXNT9VyjMP7gSjAHwZCLsxOFaH07v6dnwkYs3EZrZ\\ng2ua9BnTezSK2PjpMrN3rBWTrwGPGX58MnHxg3WfJ5qFsifflmEVl96FuwJgpJdY\\nSNPgt5P6zwKBgGYOSOCSCWZlBksRk+shg0Wv0ndxiOrsO91UlDnHTjqq6fL5Ypmj\\ncGwJjZMdiYPzDo8Ef9DPopCN6xkp23v6G1Fp1HTiJNUEhWmmurMleNx4uoF2+zqZ\\nKlROX0d3u9lAzxPCgwKg1YdAy3vbuhKJ80JVkmIP6UXvveCygqGhcQDJAoGAJEoX\\nGsbmIPniyMNhFDP6CIE45oplzgldK10yhdg1ckLSX4OLAGIB2hGcl0/QVpWMVUd0\\n8Yv8l5EEw9s9nlrcJLjek55PqFCq92cHbLroFKtvHT1ujrjwaCJtBtEKN+vHCJJx\\nDlqaFBqdugV2PG/2OSawo8/3rpNSKfTp996T2aMCgYAUPvxjBMVt0N8mov0QmInC\\nl3rwvPu3Vb1dvXJUw/bIZRIe5Cvptd5HRS+fLs9E7RXKo9bEoTKph0D6VHIeQdfj\\nRtepI2MKMjgqZq2bDT5rD6Hk7sfMfWFfB15s8600jolqsuhijbfR4a33gpgovWRq\\nOe/vCxc6RB0fR0HEt0G/Hg==\\n-----END PRIVATE KEY-----\\n"
+  },
+  "project": {
+    "id": "oneplus-data"
+  },
+  "client": {
+    "email": "firebase-adminsdk-o3ft8@oneplus-data.iam.gserviceaccount.com"
+  }
+}
+

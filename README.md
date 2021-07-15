@@ -1,5 +1,5 @@
-# Cloud Functions Master Course
+# CHMEDIA FIREBASE API
 
-Everything you need to know to be successful with Firebase Cloud Functions 2.0.
+This is a small Firebase API that allows Kaltura and Applicaster to send events to it and we will save these events. 
 
-Enroll in the Course
+For some events Airship will be triggered through the API. (TODO)
